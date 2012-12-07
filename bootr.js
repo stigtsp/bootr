@@ -1,9 +1,4 @@
 /*
- * bootr.js
- *
- * Uses the built in easing capabilities added In jQuery 1.1
- * to offer multiple easing options
- *
  * TERMS OF USE - bootr.js
  * 
  * Open source under the BSD License. 
